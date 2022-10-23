@@ -1,2 +1,2 @@
-# DIstributed-DeeP-LCC
-DIstributed DeeP-LCC for CAV cooperation in mixed traffic
+# Distributed-DeeP-LCC
+Distributed DeeP-LCC for CAV cooperation in mixed traffic
