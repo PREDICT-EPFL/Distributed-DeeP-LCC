@@ -24,10 +24,10 @@ The benefits of our algorithm include:
 - Communication efficiency
 - Local data privacy
 
-# Related projects
+## Related projects
 1. [DeeP-LCC](https://github.com/soc-ucsd/DeeP-LCC)
 2. [Leading Cruise Control (LCC)](https://github.com/soc-ucsd/LCC)
 3. [Mixed-traffic](https://github.com/soc-ucsd/mixed-traffic)
 
-# Contact us
-To contact us about Deep-LCC, email either [Jiawei Wang](mailto:wang-jw18@mails.tsinghua.edu.cn?Subject=DeeP-LCC) or [Yuning Jiang](mailto:yuning.jiang@epfl.ch?Subject=DeeP-LCC).
+## Contact us
+To contact us about Deep-LCC, email [Jiawei Wang](mailto:wang-jw18@mails.tsinghua.edu.cn?Subject=Distributed-DeeP-LCC).

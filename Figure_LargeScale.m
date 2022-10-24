@@ -1,5 +1,9 @@
 % =========================================================================
-%               Analysis for simulation results under same data sample
+%                 Process large-scale simulation results
+%
+% *Attention*: need simulation data to run this code. 
+% If there are no simulation results yet, please run main_LargeScale 
+% first.
 % =========================================================================
 
 clc; clear; close all;
@@ -31,7 +35,7 @@ i_data           = 1;
 output_bool      = 1;
 
 % ID
-load('ID_LargeScale.mat'); % record ID
+load('_data/ID_LargeScale.mat'); % record ID
 ID_str      = num2str(ID);
 ID_str(find(ID_str==' ')) = '';
 
@@ -75,7 +79,7 @@ total_size  = 16;
 line_width  = 2;
 line_width_3d = 0.7;
 
-load('ColorMap_RedWhiteBlue.mat');
+load('_data/ColorMap_RedWhiteBlue.mat');
 color_cav = mymap_red_white_blue(linspace(108,76,5),:);
 
 % Velocity
