@@ -14,7 +14,7 @@ Cooperative DeeP-LCC naturally partitions the mixed traffic system into multiple
 
 The optimization problem is as follows.
 
-<img src="docs/img/cooperative_deeplcc_formulation.png" align="center" width="45%"/>
+<img src="docs/img/cooperative_deeplcc_formulation.png" align="center" width="55%"/>
 
 ## Algorithm: Distributed DeeP-LCC
 A tailored ADMM based distributed implementation algorithm (distributed DeeP-LCC) is designed to solve the cooperative DeeP-LCC formulation.
@@ -29,5 +29,7 @@ The benefits of our algorithm include:
 2. [Leading Cruise Control (LCC)](https://github.com/soc-ucsd/LCC)
 3. [Mixed-traffic](https://github.com/soc-ucsd/mixed-traffic)
 
+
 ## Contact us
 To contact us about Deep-LCC, email [Jiawei Wang](mailto:wang-jw18@mails.tsinghua.edu.cn?Subject=Distributed-DeeP-LCC).
+
