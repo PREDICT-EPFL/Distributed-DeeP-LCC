@@ -31,5 +31,5 @@ The benefits of our algorithm include:
 
 
 ## Contact us
-To contact us about Deep-LCC, email [Jiawei Wang](mailto:wang-jw18@mails.tsinghua.edu.cn?Subject=Distributed-DeeP-LCC).
+To contact us about DeeP-LCC, email [Jiawei Wang](mailto:wang-jw18@mails.tsinghua.edu.cn?Subject=Distributed-DeeP-LCC).
 
